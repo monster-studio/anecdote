@@ -1,7 +1,5 @@
 <h1>How to use</h1>
 
-<h2>Open the config file</h2>
-
 <h2>installation</h2>
 
 1. Edit the config.php file with the correct paths that fits your JSON.
