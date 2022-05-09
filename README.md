@@ -1,4 +1,6 @@
-<h1>Anecdotes RestAPI</h1>
+<h1>How to use</h1>
+
+<h2>Anecdotes RestAPI Guide</h2>
 
 <h2 dir="auto">URL:</h2>
 <pre class="notranslate">
