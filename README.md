@@ -1,10 +1,18 @@
 <h1>How to use</h1>
 
+<h2>Open the config file</h2>
+
+<h2>installation</h2>
+
+1. Upload the zip to your server and extract it.
+2. Edit the config.php file with the correct paths that fits your JSON.
+3. Use the RestAPI according to the guide below.
+
 <h2>Anecdotes RestAPI Guide</h2>
 
 <h2 dir="auto">URL:</h2>
 <pre class="notranslate">
-<code class="notranslate">https://monster-studio.net/github/github.php</code>
+<code class="notranslate">{full folder path}/github.php</code>
 </pre>
 
 <h2 dir="auto">Method::</h2>
