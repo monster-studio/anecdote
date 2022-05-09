@@ -5,6 +5,11 @@
 <code class="notranslate">https://monster-studio.net/github/github.php</code>
 </pre>
 
+<h2 dir="auto">Method::</h2>
+<pre class="notranslate">
+<code class="notranslate">POST</code>
+</pre>
+
 <h2 dir="auto">Json exemple:</h2>
 <pre class="notranslate">
 <code class="notranslate">
