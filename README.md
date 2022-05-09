@@ -4,8 +4,8 @@
 
 <h2>installation</h2>
 
-1. Upload the zip to your server and extract it.
-2. Edit the config.php file with the correct paths that fits your JSON.
+1. Edit the config.php file with the correct paths that fits your JSON.
+2. Upload the zip to your server and extract it.
 3. Use the RestAPI according to the guide below.
 
 <h2>Anecdotes RestAPI Guide</h2>
