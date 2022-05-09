@@ -8,17 +8,17 @@
 
 <h2>Anecdotes RestAPI Guide</h2>
 
-<h2 dir="auto">URL:</h2>
+<h3 dir="auto">URL:</h3>
 <pre class="notranslate">
 <code class="notranslate">{full folder path}/github.php</code>
 </pre>
 
-<h2 dir="auto">Method::</h2>
+<h3 dir="auto">Method::</h3>
 <pre class="notranslate">
 <code class="notranslate">POST</code>
 </pre>
 
-<h2 dir="auto">Json exemple:</h2>
+<h3 dir="auto">Json exemple:</h3>
 <pre class="notranslate">
 <code class="notranslate">
 {
@@ -44,7 +44,7 @@
 </code>
 </pre>
 
-<h2 dir="auto">Response Example:</h2>
+<h3 dir="auto">Response Example:</h3>
 <pre class="notranslate">
 <code class="notranslate">
 {
